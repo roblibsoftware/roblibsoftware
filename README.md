@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @roblibsoftware
 - 👀 I’m interested in tractors
 - 🌱 I’m currently learning how little I know
-- 💞️ I’m looking to collaborate on after work events
 - 📫 How to reach me: well, I might be untouchable
 
 <!---
